@@ -1,0 +1,30 @@
+<?php 
+$app->make("config")->set("Contact.map", "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.2889612081294!2d-0.08991633479969738!3d51.50791446848737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876035159bb13c5%3A0xa61e28267c3563ac!2sLondon+Bridge!5e0!3m2!1sen!2sin!4v1484053031612");
+$app->make("config")->set("Email.client", "gmail.com");
+$app->make("config")->set("Fatsecret.live_consumer_key", "15f2c86b3009483dbf49344d9834b1c6");
+$app->make("config")->set("Fatsecret.live_consumer_secret", "740595bab85d4e7d8598127d71b53e08");
+$app->make("config")->set("Fatsecret.sandbox_mode", "1");
+$app->make("config")->set("Reading.record_front_per_page", "12");
+$app->make("config")->set("Site.address", "577 N. Meeker Ave.Boise ID
+99090 USA");
+$app->make("config")->set("Site.bonus", "10");
+$app->make("config")->set("Site.cash_order_limit", "100");
+$app->make("config")->set("Site.contact_email", "octal.team11@gmail.com");
+$app->make("config")->set("Site.contact_number", "9856985696");
+$app->make("config")->set("Site.convenience_charges", "100");
+$app->make("config")->set("Site.copy_right", "© 2021 allstardelivery.com. All rights reserved.");
+$app->make("config")->set("Site.delivery_charge", "10");
+$app->make("config")->set("Site.email", "octal.team11@gmail.com");
+$app->make("config")->set("Site.facebook", "http://facebook.com");
+$app->make("config")->set("Site.firebase_key", "AAAA_b1huEM:APA91bGZ5mpD9dCcfVNQ7U-TKOQtIbUvHdgQeTvP6RZFhTqFw2mXlZif0rTtcelhGMdDydp_jHqX1frW49zgSwDOJxwQByLHrO2KRLwkwb7HpkXOxe6wF2qEL1JaT1oQMvllVNy34bAO");
+$app->make("config")->set("Site.google_api_key", "AIzaSyDrILrLtYyy2sVdR1GjnRgEG_eIMsU2jcc");
+$app->make("config")->set("Site.linkedin_url", "https://www.linkedin.com");
+$app->make("config")->set("Site.per_page_product", "12");
+$app->make("config")->set("Site.picker_charge", "10");
+$app->make("config")->set("Site.stripe_key", "sk_test_EaHistteQtC4S4CJTvQvlgwI003d2Y5nCQ");
+$app->make("config")->set("Site.title", "All Star Delivery");
+$app->make("config")->set("Site.twitter", "http://twitter.com");
+$app->make("config")->set("Site.vat", "10");
+$app->make("config")->set("Site.vendor_plan_price", "100");
+$app->make("config")->set("Site.youtube", "https://www.youtube.com/");
+$app->make("config")->set("Social.facebook", "http://facebook.com");
